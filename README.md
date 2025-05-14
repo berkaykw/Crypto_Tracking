@@ -1,16 +1,21 @@
-# crypto_tracking
+# 📱 Crypto Tracking
 
-A new Flutter project.
+**Crypto Tracking**, kullanıcıların kripto para piyasasını takip edebileceği, favori coin’lerini cüzdanlarına ekleyip portföylerini görüntüleyebilecekleri Flutter tabanlı bir mobil uygulamadır.
 
-## Getting Started
+## 🚀 Özellikler
 
-This project is a starting point for a Flutter application.
+-  Gerçek zamanlı coin verileri (CoinGecko API üzerinden)
+-  Coin listesi görüntüleme
+-  Coin’leri cüzdana ekleme
+-  Portföy sayfası ile toplam bakiye ve performans takibi
+-  Modern ve kullanıcı dostu arayüz
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- REST API (CoinGecko)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Ekran Görüntüleri
+<img src="https://github.com/user-attachments/assets/ef54d2cd-fb03-4bdc-b566-2ada65100bcf" alt="1" width="300"/>
+<img src="https://github.com/user-attachments/assets/f4272402-3f90-4569-ac42-4f53eb98fbd6" alt="2" width="306"/>
