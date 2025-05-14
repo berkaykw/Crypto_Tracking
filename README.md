@@ -1,4 +1,4 @@
-#  📱 Crypto Tracking
+# 📱 Crypto Tracking
 
 **Crypto Tracking**, kullanıcıların kripto para piyasasını takip edebileceği, favori coin’lerini cüzdanlarına ekleyip portföylerini görüntüleyebilecekleri Flutter tabanlı bir projedir.
 
