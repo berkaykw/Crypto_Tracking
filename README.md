@@ -10,7 +10,7 @@
 -  Portföy sayfası ile toplam bakiye ve performans takibi
 -  Modern ve kullanıcı dostu arayüz
 
-##  🛠️ Teknolojiler
+## 🛠️ Teknolojiler
 
 - Flutter
 - Dart
